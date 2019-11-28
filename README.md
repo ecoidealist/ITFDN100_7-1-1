@@ -1,5 +1,7 @@
 
- *[Source code: Lib/Pickle.png](https://raw.githubusercontent.com/ksteve3/ITFDN100-Mod07/master/docs/Snips/Pickle/2.1/2.1%20-%20Figure%2017.png)*[#]**(external link)  
+
+
+*[Source code: Lib/Pickle.png](https://raw.githubusercontent.com/ksteve3/ITFDN100-Mod07/master/docs/Snips/Pickle/2.1/2.1%20-%20Figure%2017.png)*[#]**(external link)  
  *[Source code: Lib/Pickle.png](https://raw.githubusercontent.com/ksteve3/ITFDN100-Mod07/master/docs/Snips/Pickle/2.1/2.1%20-%20Figure%2017.png)*[#]**(external link)  
  *[Source code: Lib/Pickle.txt](https://raw.githubusercontent.com/ksteve3/ITFDN100-Mod07/master/docs/Snips/Pickle/2.1/2.1%20-%20Listing%2016%20.txt)*[#]**(external link)  
  *[Source code: Lib/Pickle.txt](https://raw.githubusercontent.com/ksteve3/ITFDN100-Mod07/master/docs/Snips/Pickle/2.1/2.1%20-%20Listing%2016%20.txt)*[#]**(external link)  
