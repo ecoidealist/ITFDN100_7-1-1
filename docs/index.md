@@ -1,3 +1,10 @@
+
+
+![example1](example2 "example1")\\$
+Pickling | Figure 2.5
+
+
+
 ##Resusable Image Link Template Markdowns
 
 ![Pickling | Figure 2.5](https://github.com/ksteve3/ITFDN100-Mod07/blob/master/docs/Assignment07/snips/Pickling/2.5/2.5%20pickling%20and%20scaling%20code%20example.png "Pickling | Figure 2.5")  
