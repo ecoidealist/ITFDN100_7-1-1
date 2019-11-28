@@ -3,6 +3,9 @@
 ![example1](example2"example1")\\$
 Pickling | Figure 2.5
 
+![example1](example2 "example1")\\$  Pickling | Figure 2.5
+
+
 
 
 ##Resusable Image Link Template Markdowns
