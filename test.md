@@ -1,9 +1,7 @@
 
-
-
 #Getting and setters / Accessors and Mutator
 
-
+```
 @name_of_method.setter # Directive
 
 # Property Function:
@@ -49,5 +47,4 @@ NOTES:
 
 # if you want your script to function as read only, leave off the "setter"
 # - but doing it this way will not tallow you to change it
-
-
+```
