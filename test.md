@@ -1,6 +1,6 @@
 
 
-```
+
 #Getting and setters / Accessors and Mutator
 
 
@@ -11,7 +11,7 @@
 def product_price(self, value):
 
     if not str(value).isnumeric():
-        self.strProductPrice = value
+        self.__product_price = value
     else:
         raise Exception
 
@@ -23,7 +23,7 @@ def product_name(self, value):
 
 
     if str(value).isnumeric() == False:
-        self.strProductName = value
+        self.__product_name = value
     else:
         raise Exception("Names cannot be numbers") #validation to make sure the data clean
 
@@ -50,5 +50,4 @@ NOTES:
 # if you want your script to function as read only, leave off the "setter"
 # - but doing it this way will not tallow you to change it
 
-```
 
