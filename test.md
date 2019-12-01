@@ -1,10 +1,12 @@
 
+
+
 #Getting and setters / Accessors and Mutator
 
 ```
-@name_of_method.setter # Directive
+## Directive  / @name_of_method.setter
 
-# Property Function:
+
 @product_price.setter #(Setter or Mutator)
 def product_price(self, value):
 
@@ -14,11 +16,10 @@ def product_price(self, value):
         raise Exception
 
 
+## Directive  / @product_name.setter
 
-# Property Function:
 @product_name.setter #(Setter or Mutator)
 def product_name(self, value):
-
 
     if str(value).isnumeric() == False:
         self.__product_name = value
@@ -28,7 +29,7 @@ def product_name(self, value):
 
 
 
-@propery # Directive  timestamp 33:00
+## Property Directive / @property /  timestamp 33:00
 
 @property  # (Getter or Accessors)  ## getter does not read files. Typically the
 # "getter does formatting processes
@@ -48,3 +49,4 @@ NOTES:
 # if you want your script to function as read only, leave off the "setter"
 # - but doing it this way will not tallow you to change it
 ```
+
